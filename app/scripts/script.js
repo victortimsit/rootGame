@@ -1,0 +1,1 @@
+const desk = new Desk()
